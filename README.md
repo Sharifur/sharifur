@@ -32,7 +32,15 @@
 [Compapy Portfolio](https://codecanyon.net/user/xgenious/portfolio)
 
 ### WordPress Themes
+[App Landing WordPress Theme](https://themeforest.net/item/appside-app-landing-wordpress-theme/24424901)
+[Political WordPress Theme](https://themeforest.net/item/harnold-political-campaign-wordpress-theme/28351221)
+
 
 ### WordPress Plugins
+[Accordion FAQ WordPress Plugin](https://codecanyon.net/item/accordion-faq-wordpress-plugin/22692611)
+[Tabs - WordPress Plugin](https://codecanyon.net/item/tabs-wordpress-plugin/23438375)
+[Genius Addon](https://wordpress.org/plugins/genius-addon-lite/)
+
 
 ### Frontend Projects
+
