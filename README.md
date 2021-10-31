@@ -18,15 +18,18 @@
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
+
 
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
+[![Multipurpose Website CMS](https://codecanyon.net/item/nexelit-multipurpose-website-business-management-system-cms/27936384)
+[![Software Landing CMS](https://codecanyon.net/item/buxkit-software-landing-platform/25414132)
+[!Compapy Portfolio](https://codecanyon.net/user/xgenious/portfolio)
 
 ### WordPress Themes
 
