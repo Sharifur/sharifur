@@ -26,8 +26,8 @@
 
 
 ### Full Stack Projects
-
-[Multipurpose Website CMS](https://codecanyon.net/item/nexelit-multipurpose-website-business-management-system-cms/27936384)
+<i>
+[Multipurpose Website CMS](https://codecanyon.net/item/nexelit-multipurpose-website-business-management-system-cms/27936384)</i>
 [Software Landing CMS](https://codecanyon.net/item/buxkit-software-landing-platform/25414132)
 [Compapy Portfolio](https://codecanyon.net/user/xgenious/portfolio)
 
