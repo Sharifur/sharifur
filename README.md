@@ -29,7 +29,7 @@
 
 [Multipurpose Website CMS](https://codecanyon.net/item/nexelit-multipurpose-website-business-management-system-cms/27936384)
 [Software Landing CMS](https://codecanyon.net/item/buxkit-software-landing-platform/25414132)
-[Compapy Portfolio](https://codecanyon.net/user/xgenious/portfolio)
+[Company Portfolio](https://codecanyon.net/user/xgenious/portfolio)
 
 ### WordPress Themes
 [App Landing WordPress Theme](https://themeforest.net/item/appside-app-landing-wordpress-theme/24424901)
