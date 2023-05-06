@@ -1,7 +1,7 @@
 ### Hi, I am Sharifur Rahman  👋
 
 - 🔭 Founder & CEO at [XGNIOUS](https://xgenious.com)
-- 🌱 I’m currently learning vue.js
+- 🌱 Always try to improve myself
 - 💬 Ask me about [mail me](mailto:dvrobin4@gmail.com)
 - 📫 How to reach me: [skype](skype:dvrobin44?chat) [telegram](https://telegram.me/devrobin)
 
