@@ -22,6 +22,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)
+![Shopify](https://img.shields.io/badge/-shopify-000?&logo=shopify)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
 ![Alpine](https://img.shields.io/badge/-alpine-000?&logo=alpine.js)
