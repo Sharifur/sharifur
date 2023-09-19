@@ -25,5 +25,3 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
 ![Alpine](https://img.shields.io/badge/-alpine-000?&logo=alpine.js)
-
-
