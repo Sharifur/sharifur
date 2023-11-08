@@ -10,6 +10,7 @@
 ### Languages
 
 ![PHP](https://img.shields.io/badge/-php-000?&logo=php)
+![Nodejs](https://img.shields.io/badge/-nojdejs-000?&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -26,3 +27,5 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
 ![Alpine](https://img.shields.io/badge/-alpine-000?&logo=alpine.js)
+![Nextjs](https://img.shields.io/badge/-nextjs-000?&logo=next.js)
+
