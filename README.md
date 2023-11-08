@@ -28,4 +28,4 @@
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
 ![Alpine](https://img.shields.io/badge/-alpine-000?&logo=alpine.js)
 ![Nextjs](https://img.shields.io/badge/-nextjs-000?&logo=next.js)
-
+![Prisma](https://img.shields.io/badge/-prisma-000?&logo=prisma)
